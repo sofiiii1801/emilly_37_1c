@@ -6,7 +6,7 @@ background:rgb(247, 245, 245);
 }
 
 header{
-border-bottom: solid 2px rgb(rgb(233, 203, 34));
+border-bottom: solid 2px rgb(rgb(163, 161, 146));
 padding: 20px;
 font-size: 32px;
 color: rgb(34, 33, 33);
@@ -22,8 +22,8 @@ justify-content: center;
 
 }
 .chamada-texto{
+margin: right 5%;
 
-    
 }
 
 
