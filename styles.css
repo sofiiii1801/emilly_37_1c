@@ -24,6 +24,16 @@ justify-content: center;
 .chamada-texto{
 margin: right 5%;
 
+.categoria_videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+}
+.categorias {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 }
 
 
